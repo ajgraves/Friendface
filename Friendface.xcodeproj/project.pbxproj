@@ -11,6 +11,9 @@
 		0AF3EB7C2C62BFDC008903B6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF3EB7B2C62BFDC008903B6 /* ContentView.swift */; };
 		0AF3EB7E2C62BFDE008903B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AF3EB7D2C62BFDE008903B6 /* Assets.xcassets */; };
 		0AF3EB812C62BFDE008903B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AF3EB802C62BFDE008903B6 /* Preview Assets.xcassets */; };
+		0AF3EB882C62C09E008903B6 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF3EB872C62C09E008903B6 /* User.swift */; };
+		0AF3EB8A2C62C0A8008903B6 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF3EB892C62C0A8008903B6 /* Friend.swift */; };
+		0AF3EB8C2C62C2CF008903B6 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF3EB8B2C62C2CF008903B6 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		0AF3EB7B2C62BFDC008903B6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0AF3EB7D2C62BFDE008903B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AF3EB802C62BFDE008903B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0AF3EB872C62C09E008903B6 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		0AF3EB892C62C0A8008903B6 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
+		0AF3EB8B2C62C2CF008903B6 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				0AF3EB792C62BFDC008903B6 /* FriendfaceApp.swift */,
 				0AF3EB7B2C62BFDC008903B6 /* ContentView.swift */,
+				0AF3EB8B2C62C2CF008903B6 /* DetailView.swift */,
+				0AF3EB872C62C09E008903B6 /* User.swift */,
+				0AF3EB892C62C0A8008903B6 /* Friend.swift */,
 				0AF3EB7D2C62BFDE008903B6 /* Assets.xcassets */,
 				0AF3EB7F2C62BFDE008903B6 /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				0AF3EB7C2C62BFDC008903B6 /* ContentView.swift in Sources */,
 				0AF3EB7A2C62BFDC008903B6 /* FriendfaceApp.swift in Sources */,
+				0AF3EB882C62C09E008903B6 /* User.swift in Sources */,
+				0AF3EB8C2C62C2CF008903B6 /* DetailView.swift in Sources */,
+				0AF3EB8A2C62C0A8008903B6 /* Friend.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
